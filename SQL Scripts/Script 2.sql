@@ -1,0 +1,1 @@
+create database academy with encoding 'UTF8';
